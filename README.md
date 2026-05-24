@@ -1,2 +1,1 @@
-# BizzyOTServer-14
-Custom Canary 14.02 Open Tibia server featuring MyAAC integration, custom items, VIP systems, and gameplay modification.
+BizzyOTServer-14 is a personal OpenTibiaBR Canary 14.x customization project focused on learning MMORPG server management, MyAAC website integration, custom item creation, asset editing, shop systems, and future hosting/security deployment.
