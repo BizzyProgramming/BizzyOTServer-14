@@ -29,3 +29,14 @@ BizzyOTServer-14 is a personal OpenTibiaBR Canary 14.x customization project foc
 - OpenTibiaBR Canary
 - Assets Editor
 - GitHub
+
+## Development Log
+
+### May 2026 - MyAAC Website and Client Setup
+- Updated Discord integration and invite link.
+- Customized website wording, including changing "View Highscore" to "View Highscores."
+- Found and edited the MyAAC download client page.
+- Updated client version from 13.3 to 14.05.
+- Added 14.05 support to the MyAAC client configuration.
+- Located and updated the client download link in the MyAAC config.
+- Continued preparing Bizzy's Global OT for online testing and future public launch.
