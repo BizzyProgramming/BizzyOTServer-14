@@ -48,3 +48,36 @@
 - Custom event systems
 - Community management and player testing
 - Long-term live server support
+
+## Late May 2026 - MyAAC Website Customization & Client Configuration
+
+### Website Improvements
+- Updated Discord integration and invite links.
+- Customized website wording and labels.
+- Changed "View Highscore" text to "View Highscores."
+- Continued improving overall MyAAC website presentation and branding.
+
+### Client Download Configuration
+- Located the real MyAAC download client source page.
+- Traced how MyAAC dynamically renders client information using:
+  - `configLua()`
+  - `config()`
+  - `$config[]`
+- Located client version configuration inside:
+  - `config.local.php`
+- Updated displayed client version from:
+  - `1330` → `1405`
+- Added 14.05 support inside:
+  - `clients.conf.php`
+- Located and updated the MyAAC client download link configuration.
+
+### Additional Notes
+- Current Canary client package still requires navigating to the `/bin` folder to launch the client executable.
+- Future goal is packaging a cleaner standalone BizzyOT client download for public players.
+
+### Current Focus
+- Continuing website customization
+- Preparing online server testing
+- Improving client download experience
+- Expanding VIP systems and custom content
+- Building project documentation for portfolio use
